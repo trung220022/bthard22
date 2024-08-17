@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b6dda384ee96df4cbbe7bd0b5a86f5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questDatabase: {fileID: 11400000, guid: 7151b1bf27545ae47bbcd0233b3f133b, type: 2}
+  - dailyQuestItemHandler: {instanceID: 0}
+  - rootUiContent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
