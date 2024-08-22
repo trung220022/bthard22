@@ -19,6 +19,12 @@ public class DailyQuestItemHandler : MonoBehaviour
         this.questProgress = questProgress;
         UpdateUi();
     }
+
+    public void UpdateProgress(QuestProgress questProgress)
+    {
+        this.questProgress = questProgress;
+        UpdateUi();
+    }
     public void UpdateUi()
     {
         Debug.Log("UpdateUi");
