@@ -16,7 +16,17 @@ public class QuestProgress
     public int id;
     public int progress;
     public bool hasClaimed;
+    private bool V;
+
+    public QuestProgress(int id, int progress, bool V)
+    {
+        this.id = id;
+        this.progress = progress;
+        this.V = V; 
+    }
 }
+
+
 
 [Serializable]
 public class QuestProgressDatabase
